@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Hassan</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 - 🔭 I’m currently working on **Machine Learning/Artificial Intelligence.**
 
