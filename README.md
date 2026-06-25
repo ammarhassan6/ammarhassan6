@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ammarhassan0098@gmail.com**
   
-- Portfolio : [Ammar Hassan](ammarhassan1.vercel.app)
+- Portfolio : <a href="https://ammarhassan1.vercel.app/" target="_blank" rel="noopener noreferrer">Ammar Hassan</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
